@@ -14,6 +14,6 @@ venv/
 *.tfstate.*
 .terraform/
 
-# VS Code / PyCharm
-.vscode/
+PyCharm
+
 .idea/
