@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Secrets
+.env
+*.json
+*.key
+*.pem
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# VS Code / PyCharm
+.vscode/
+.idea/

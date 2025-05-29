@@ -1,6 +1,6 @@
 # GCP AI Blueprint
 
-A cloud-native GenAI demo project showcasing multi-agent intelligence using Google Cloud Platform. Built to demonstrate practical GCP architecture and AI tooling for technical interviews, blogs, and portfolios.
+A cloud-native GenAI demo project showcasing multi-agent intelligence using Google Cloud Platform. Built to demonstrate practical GCP architecture and AI tooling.
 
 ## ✨ Features
 
