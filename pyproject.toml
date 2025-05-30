@@ -4,4 +4,12 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "fastapi>=0.115.12",
+    "google-cloud-aiplatform>=1.95.1",
+    "google-cloud-firestore>=2.20.2",
+    "google-cloud-pubsub>=2.29.0",
+    "httpx>=0.28.1",
+    "pydantic>=2.11.5",
+    "uvicorn>=0.34.2",
+]
